@@ -5,12 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyAwq1K4H2GcJMK0Cxh0dTc-g9npf06d3GU',
-    authDomain: 'ingresoegresongrx.firebaseapp.com',
-    databaseURL: 'https://ingresoegresongrx.firebaseio.com',
-    projectId: 'ingresoegresongrx',
-    storageBucket: 'ingresoegresongrx.appspot.com',
-    messagingSenderId: '668193083392',
+    apiKey: 'AIzaSyAhwrOiqXV0EKV1t80kDqcK91qHw-m8Rm0',
+    authDomain: 'ingresoegreso-184a2.firebaseapp.com',
+    databaseURL: 'https://ingresoegreso-184a2.firebaseio.com',
+    projectId: 'ingresoegreso-184a2',
+    storageBucket: '',
+    messagingSenderId: '397532845909',
+    appId: '1:397532845909:web:8ccef52a427374ce'
   }
 };
 
